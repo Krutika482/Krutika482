@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kshitija
+- 👀 I’m interested in Python and desire to become a Data Scientist
+- 🌱 I’m currently learning coding 
+- 💞️ I want to become pro coder in Python
