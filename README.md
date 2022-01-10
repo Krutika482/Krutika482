@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kshitija
+- 👋 Hi, I’m Kshitija Chilbule
 - 👀 I’m interested in Python and desire to become a Data Scientist
 - 🌱 I’m currently learning coding 
 - 💞️ I want to become pro coder in Python
